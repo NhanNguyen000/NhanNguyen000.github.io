@@ -1,7 +1,19 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Team³ (PREMIUM - Honours programme for master students)"
+excerpt: "Developing a feedback tool-kit to improve the outcomes of the multidisciplinary teams"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+After being selected for the PREMIUM - Maastricht University’s Honours programme for master students, I was grouped with other media culture and psychology student to create a interdisciplinary team.
+
+We have our local client - Cube Design Museum (Limburg, Netherlands) with a challenging assignment: How to improve the outcomes of the multidisciplinary teams? Of course, we also have support from Maastricht University with our project mentor - Arie as well as multiple workshops and individual coaching to develop our personal competence and working skills.
+
+In the end of our project, we offer Cube Museum a fresh solution which is Feedback3. You will be wondering - what is this? It is a feedback tool-kit, aiming to go beyond the conventional evaluation forms. With our product you can forget the long and boring evaluation forms, as we will provide an exciting assessment tool with fruitful discussions!
+
+Project URL: https://feedback3.tumblr.com/project
+
+Skills: Product Design · Interpersonal Skills · Creativity and Innovation
+
+Associated with MSc. in Systems Biology, Maastricht University
+Start date: Jan, 2018
+End date: May, 2018
