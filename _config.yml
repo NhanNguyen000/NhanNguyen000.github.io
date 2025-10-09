@@ -24,9 +24,9 @@ repository               : "NhanNguyen000/NhanNguyen000.github.io"
 author:
   # Biographic information
   avatar           : "NhanNguyen_2025.JPG"
-  name             : "Nhan Nguyen"
-  pronouns         : "she/her"  
-  bio              : "Researcher | Bioinformatician | Multi-omics"
+  name             : "Nhan Nguyen (she/her)"
+  pronouns         : # "she/her"  
+  bio              : "Bioinformatician | Multi-omics"
   location         : "London, UK"
   employer         : "Queen Mary Univeristy of London"
   uri              : # URL
