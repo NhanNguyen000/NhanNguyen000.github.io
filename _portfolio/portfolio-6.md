@@ -1,6 +1,7 @@
 ---
 title: "Participate in the Women in Data Science (WiDS) Datathon"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+date: 2022-02
 collection: portfolio
 ---
 Women in Data Science (WiDS) Maastricht Datathon is a regional event and competition (but open to all) of the Global WiDS Datathon Competition.

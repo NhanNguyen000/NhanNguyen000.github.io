@@ -1,6 +1,7 @@
 ---
 title: "Inspire high school kids!" program - Bioinformatics workshop"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+date: 2022-04
 collection: portfolio
 ---
 The "Inspire high school kids!" program aims to introduce what university and researchers do and offer career exploration opportunities to high school student. In this program, researchers can give one-hour workshop about their research topics. My workshop focuses on bioinformatics, in which I give an overview about bioinformatics and some examples on how bioinformatics can apply in pharmacology and medicine areas.
