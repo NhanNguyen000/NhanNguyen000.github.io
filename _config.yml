@@ -23,7 +23,7 @@ repository               : "NhanNguyen000/NhanNguyen000.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "NhanNguyen_2025.JPG"
+  avatar           : "NhanNguyen_2025"
   name             : "Nhan Nguyen (she/her)"
   pronouns         : # "she/her"  
   bio              : "Bioinformatician | Multi-omics"
