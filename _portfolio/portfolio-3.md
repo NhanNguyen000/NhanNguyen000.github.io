@@ -1,7 +1,7 @@
 ---
 title: "PhD representatives"
 excerpt: "Serve as a contact person and general voice for PhD students to discuss PhD-related topics with manager broad and organize social activities"
-date: 2020-09
+date: 2020-09-01
 collection: portfolio
 ---
 

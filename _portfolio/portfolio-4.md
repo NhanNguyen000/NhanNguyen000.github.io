@@ -1,7 +1,7 @@
 ---
 title: "Corona news app"
 excerpt: "Develop a web application for non-Dutch-speaking citizens to follow COVID-19 news. This web application was mentioned in the GROW school newsletters and the Hecht Maastricht UMC+ magazine in July 2020."
-date: 2020-04
+date: 2020-04-01
 collection: portfolio
 ---
 We are facing the Corona pandemic in the Netherlands. There are daily updates about new COVID-19 cases, number of deaths, but also precautions measurements in multiple channels. Most of them are in Dutch, which are inconvenient for a large population of non-Dutch speaking citizens.

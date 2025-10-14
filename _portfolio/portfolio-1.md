@@ -1,7 +1,7 @@
 ---
 title: "Team³ (PREMIUM - Honours programme for master students)"
 excerpt: "Developing a feedback tool-kit to improve the outcomes of the multidisciplinary teams"
-date: 2018-05
+date: 2018-05-01
 collection: portfolio
 ---
 

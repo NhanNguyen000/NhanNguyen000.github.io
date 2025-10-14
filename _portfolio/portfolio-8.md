@@ -1,7 +1,7 @@
 ---
 title: "Participate in the Women in Entrepreneurship Innovation program, Germany"
 excerpt: "An 8-week online program for 100 German students and researchers, organized by GUILD Academy and the German Center for Research and Innovation in San Francisco"
-date: 2024-05
+date: 2024-05-01
 collection: portfolio
 ---
 <tbc>

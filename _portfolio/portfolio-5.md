@@ -1,7 +1,7 @@
 ---
 title: "PharmaTranslate team (finalist) - Maastricht University Challenge"
 excerpt: "Aim to develop a PharmaTranslate app to translate medicine names for travelers, refugees, and expats in an entrepreneurial competition at Maastricht University and Zuyd Hogeschool."
-date: 2021-11
+date: 2021-11-01
 collection: portfolio
 ---
 
