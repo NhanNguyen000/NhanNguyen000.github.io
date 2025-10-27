@@ -72,7 +72,7 @@ Skills: Coding · Product Innovation
 Associated with PhD student at GROW school, Maastricht University
 
 
-**Team³ (PREMIUM - Honours programme for master students)**
+**Team³ (PREMIUM - Honours programme for master students) [link](https://nhannguyen000.github.io/portfolio/portfolio_team3_premium)**
 
 Developing a feedback tool-kit to improve the outcomes of the multidisciplinary teams
 Start date: Jan, 2018. End date: May, 2018
