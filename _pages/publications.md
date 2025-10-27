@@ -14,7 +14,7 @@ Highlighted publications
 ------
 
 
-**Omics technologies to understand drug toxicity mechanisms**
+**[Omics technologies to understand drug toxicity mechanisms](https://doi.org/10.1016/j.drudis.2022.103348)**
 
 Drug side effects are an important study subject in pharmacology. Recent omics technologies provide a range of omics data and help to understand the biological mechanisms involved in drug effects. These modern technologies provide significant support to all biological disciplines, including drug toxicology. In this review, we provide an overview the use of omics applications to understand drug side effects at the molecular level. We discuss by available omics technologies, their possible uses, as well as their advantages and limitations. 
 
