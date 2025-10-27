@@ -2,7 +2,7 @@
 permalink: /portfolio/
 title: "Portfolio"
 redirect_from: 
-  - /portfolio/
+  #- /portfolio/
   - /portfolio.html
 ---
 
