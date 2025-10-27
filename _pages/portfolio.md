@@ -35,6 +35,7 @@ Skills: Data Analysis · Machine Learning
 PharmaTranslate team (finalist) - Maastricht University Challenge
 ======
 Aim to develop a PharmaTranslate app to translate medicine names for travelers, refugees, and expats in an entrepreneurial competition at Maastricht University and Zuyd Hogeschool.
+
 Start date: March, 2021 End date: November, 2021
 
 The Maastricht University Challenge is an competition for students and recent graduates of Maastricht University and Zuyd Hogeschool to develop innovative ideas related to societal and entrepreneurial issues.
@@ -45,9 +46,10 @@ Skills: Business Development · Product Innovation · Entrepreneurship
 Associated with PhD student at GROW school, Maastricht University
 
 
-**PhD representatives**
-
+PhD representatives
+======
 Serve as a contact person and general voice for PhD students to discuss PhD-related topics with manager broad and organize social activities
+
 Start date: October, 2018. End date: September, 2020
 
 PhD representatives serve as:
@@ -59,9 +61,10 @@ Skills: Strategy · Communication
 Associated with PhD student at GROW school, Maastricht University
 
 
-**Corona news app**
-
+Corona news app
+======
 Developing a web application for non-Dutch-speaking citizens to follow COVID-19 news. This web application was mentioned in the GROW school newsletters and the Hecht Maastricht UMC+ magazine in July 2020.
+
 Date: April, 2020
 
 We are facing the Corona pandemic in the Netherlands. There are daily updates about new COVID-19 cases, number of deaths, but also precautions measurements in multiple channels. Most of them are in Dutch, which are inconvenient for a large population of non-Dutch speaking citizens.
@@ -72,9 +75,10 @@ Skills: Coding · Product Innovation
 Associated with PhD student at GROW school, Maastricht University
 
 
-**Team³ (PREMIUM - Honours programme for master students) [link](https://nhannguyen000.github.io/portfolio/portfolio_team3_premium)**
-
+Team³ (PREMIUM - Honours programme for master students)
+======
 Developing a feedback tool-kit to improve the outcomes of the multidisciplinary teams
+
 Start date: Jan, 2018. End date: May, 2018
 
 After being selected for the PREMIUM - Maastricht University’s Honours programme for master students, I was grouped with other media culture and psychology student to create a interdisciplinary team.

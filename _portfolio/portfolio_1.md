@@ -1,9 +1,7 @@
 ---
-permalink: /portfolio/portfolio_team3_premium
 title: "Team³ (PREMIUM - Honours programme for master students)"
-redirect_from: 
-  #- /portfolio/
-  #- /portfolio.html
+excerpt: "Developing a feedback tool-kit to improve the outcomes of the multidisciplinary teams"
+collection: portfolio
 ---
 
 After being selected for the PREMIUM - Maastricht University’s Honours programme for master students, I was grouped with other media culture and psychology student to create a interdisciplinary team.
