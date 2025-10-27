@@ -7,17 +7,21 @@ redirect_from:
 ---
 
 **Participate in the CyberMentor**
+
 Start date: April, 2023 until Now
 
 CyberMentor is an online mentoring program in Germany [https://www.cybermentorin.de/index.php/de/](https://www.cybermentorin.de/index.php/de/). It aims to encourage girls to participate in STEM activities and give advice on choosing a course and career.
 
-
+------
 **Participate in the Women in Entrepreneurship Innovation program, Germany**
+
 Start date: April, 2024 End date: May, 2024 
 
 An 8-week online program for 100 German students and researchers, organized by GUILD Academy and the German Center for Research and Innovation in San Francisco. 
 
+------
 **Participate in the Women in Data Science (WiDS) Datathon**
+
 Start date: February, 2020. End date: February, 2022
 
 Women in Data Science (WiDS) Maastricht Datathon is a regional event and competition (but open to all) of the Global WiDS Datathon Competition. Participant will be given a data-related challenge and a limited amount of time to use their creativity and data science skills to build, test, and explore solutions.
@@ -27,8 +31,9 @@ Women in Data Science (WiDS) Maastricht Datathon is a regional event and competi
 
 Skills: Data Analysis · Machine Learning
 
-
+------
 **PharmaTranslate team (finalist) - Maastricht University Challenge**
+
 Aim to develop a PharmaTranslate app to translate medicine names for travelers, refugees, and expats in an entrepreneurial competition at Maastricht University and Zuyd Hogeschool.
 Start date: March, 2021 End date: November, 2021
 
@@ -39,8 +44,9 @@ In few months, we had developed our idea about a PharmaTranslate app. Our app Ph
 Skills: Business Development · Product Innovation · Entrepreneurship
 Associated with PhD student at GROW school, Maastricht University
 
-
+------
 **PhD representatives**
+
 Serve as a contact person and general voice for PhD students to discuss PhD-related topics with manager broad and organize social activities
 Start date: October, 2018. End date: September, 2020
 
@@ -52,7 +58,9 @@ PhD representatives serve as:
 Skills: Strategy · Communication
 Associated with PhD student at GROW school, Maastricht University
 
+------
 **Corona news app**
+
 Developing a web application for non-Dutch-speaking citizens to follow COVID-19 news. This web application was mentioned in the GROW school newsletters and the Hecht Maastricht UMC+ magazine in July 2020.
 Date: April, 2020
 
@@ -63,8 +71,9 @@ Therefore, we have built this web application [https://coronanewshub.github.io/]
 Skills: Coding · Product Innovation
 Associated with PhD student at GROW school, Maastricht University
 
-
+------
 **Team³ (PREMIUM - Honours programme for master students)**
+
 Developing a feedback tool-kit to improve the outcomes of the multidisciplinary teams
 Start date: Jan, 2018. End date: May, 2018
 
