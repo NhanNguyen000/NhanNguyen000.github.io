@@ -8,16 +8,14 @@ redirect_from:
  # - /portfolio/
   - /portfolio.html
 ---
+{% include toc %}
 
 Alongside my research and professional work, I also actively join extracurricular initiatives to continuously learn beyond my core research, broaden my perspective, and contribute back to the community 
-
-{% include toc %}
 
 ---
 
 ### Participate in the CyberMentor Program
-CyberMentor is an online mentoring program in Germany (https://www.cybermentorin.de/index.php/de/).
-It aims to encourage girls to participate in STEM activities and give advice on choosing a course and career.
+[CyberMentor](https://www.cybermentorin.de/index.php/de/) is an online mentoring program in Germany. It aims to encourage girls to participate in STEM activities and give advice on choosing a course and career.
 
 **Start date:** April 2023 – Present
 
@@ -78,7 +76,7 @@ Skills: Business Development · Product Innovation · Entrepreneurship. Associat
 
 We are facing the Corona pandemic in the Netherlands. There are daily updates about new COVID-19 cases, number of deaths, but also precautions measurements in multiple channels. Most of them are in Dutch, which are inconvenient for a large population of non-Dutch speaking citizens.
 
-Therefore, we have built this web application (https://coronanewshub.github.io/) for expats, so people can keep up-to-date with the COVID-19 news. This web application collects the news from different sources (RIVM, Dutch government), but also provides you with figures regarding Corona cases.
+Therefore, we have built an [web application](https://coronanewshub.github.io/) for expats, so people can keep up-to-date with the COVID-19 news. This web application collects the news from different sources (RIVM, Dutch government), but also provides you with figures regarding Corona cases.
 
 Skills: Coding · Product Innovation. Associated with PhD student at GROW school, Maastricht University
 
@@ -109,9 +107,7 @@ After being selected for the PREMIUM - Maastricht University’s Honours program
 
 We have our local client - Cube Design Museum (Limburg, Netherlands) with a challenging assignment: How to improve the outcomes of the multidisciplinary teams? Of course, we also have support from Maastricht University with our project mentor - Arie as well as multiple workshops and individual coaching to develop our personal competence and working skills.
 
-In the end of our project, we offer Cube Museum a fresh solution which is Feedback3. You will be wondering - what is this? It is a feedback tool-kit, aiming to go beyond the conventional evaluation forms. With our product you can forget the long and boring evaluation forms, as we will provide an exciting assessment tool with fruitful discussions!
-
-Project URL: https://feedback3.tumblr.com/project
+In the end of our project, we offer Cube Museum a fresh solution which is [Feedback3](https://feedback3.tumblr.com/project). You will be wondering - what is this? It is a feedback tool-kit, aiming to go beyond the conventional evaluation forms. With our product you can forget the long and boring evaluation forms, as we will provide an exciting assessment tool with fruitful discussions!
 
 Skills: Product Design · Interpersonal Skills · Creativity and Innovation. Associated with MSc. in Systems Biology, Maastricht University
 

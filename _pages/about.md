@@ -46,8 +46,7 @@ I offer three service packages designed to reduce uncertainty and accelerate dec
 Book an appointment with me:
 
 <p class="cta">
-  <a class="btn btn-primary btn-lg" href="contact.html#book">Book a Decision Call</a>
-  <a class="btn btn-outline-primary btn-lg" href="mailto:aa@gmail.com">Email: aa@gmail.com</a>
+  <a class="btn btn-primary btn-lg" href="https://calendly.com/nhan-nguyenthi1412/meeting">Book a Decision Call</a>
 </p>
 
 Choose the right format:
