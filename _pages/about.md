@@ -1,40 +1,58 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I am a senior postdoctoral researcher at Queen Mary University of London’s Precision Healthcare University Research Institute ([PHURI](https://www.qmul.ac.uk/phuri/)). My current research focuses on computational genomics and multi-omics analysis in population-based studies.
- 
-I earned my BSc in Biology at the Vietnam National University. I later did my MSc in Systems Biology and PhD in Bioinformatics at Maastricht University, the Netherlands, where I focussed on multi-omics analyses to understand drug side effects. After my PhD, I completed a postdoc at Helmholtz Center for Infection Research, Germany, studying multi-omics and immune phenotyping profiles to uncover patterns in individual immune responses.
 
-I have been working with multi-omics datasets including DNA methylation (MEDIPseq, bulk sample), transcriptomics (bulk and single-cell RNAseq), proteomics (untargeted and targeted), and metabolites (untargeted and targeted) data. My research interests focussed on multi-omics analysis to reveal the influence of genetic and environmental risk factors on disease progress and individual responses.
+Turning complex genomics, transcriptomics, proteomics, and metabolomics data into clear, confident, actionable decisions. 
 
 
+## Decision‑ready multi‑omics interpretation
+**What I do**: I help biotech and translational research teams make **fast** and **confident** decisions from complex multi‑omics datasets. Instead of long, fragmented analyses, I deliver clear biological narratives, prioritized conclusions, and specific recommendations you can act on immediately.
 
-Research
-======
-My research lies at the intersection of two main areas: multi-omics analysis and the investigation of genetic and non-genetic factors (such as diseases, infections, drugs, etc.) that shape individual responses.
+**Who I work with**: 
 
-I am particularly interested in leveraging existing datasets to address new research questions and in transferring analytical techniques across different research domains.
+- Early‑stage biotech teams preparing funding or key milestones
+- Translational academic groups facing publication or grant deadlines
+- Academic‑rooted biotechs needing a unbias external view
+- US/EU collaborations requiring consistent interpretation across sites
 
-**Drug side effects:**
+**Why teams choose to work with me**:
 
-Individual responses to drugs can vary widely due to genetic and molecular differences, leading to diverse side effect profiles. Studying these variations through multi-omics analysis helps uncover biological pathways underlying drug sensitivity and toxicity.
-
-**Infections:**
-
-Infectious agents interact dynamically with the host’s genetic and immune landscape, shaping disease outcomes and recovery patterns. Investigating these interactions provides insights into host–pathogen biology and mechanisms of immune regulation.
-
-**Enviromental factors & life styles:**
-
-Environmental exposures and lifestyle choices—such as diet, pollution, and physical activity—can profoundly influence molecular and physiological responses. Understanding these effects helps reveal how external factors modulate biological systems and contribute to health or disease risk.
+- Decision‑first outputs: clear go / no‑go or prioritization, not data dumps
+- System‑level multi‑omics integration senior expertise (genomics → metabolomics)
+- Fast clarity (weeks, not months) and independent view to reduces internal bias
+- High availability / flexibility: Cross-country and cross-continent collaborationåå
 
 
-For more information
+## Services
+I offer three service packages designed to reduce uncertainty and accelerate decisions.
+
+#### Packages (at a glance)
+
+| Package | Multi‑omics decision sprint | Biomarker & hypothesis validation project | Scientific translation & advisory retainer |
+|---|---|---|---|
+| **Purpose** | Fast **go / no‑go** decision support | Evidence‑based validation before major investment | Ongoing senior decision support |
+| **You will receive** | - Review & integration of existing multi‑omics datasets<br>- Key risks and robust signal identification<br>- Clear, actionable next‑step recommendations for a single decision question | - Integrated multi‑omics analysis across one or multiple datasets<br>- Assessment of robustness & biological plausibility<br>- Early identification of limitations & decision risks<br>- Clear recommendation (Proceed / Refine / Stop) | - Monthly strategic sparring on data, hypotheses & study design<br>- Support for publications, grants & pitch materials<br>- External senior expertise on demand |
+| **Timeline** | **3–4 weeks** / project | **6–8 weeks** / project | **3–6 months** / project |
+| **Price range** | €12,000–€15,000 (fixed price) | €18,000–€25,000 (fixed price) | €2,500–€3,500 / month |
+
 ------
-More information about my academic work [Publications](https://nhannguyen000.github.io/publications/) and [Talks](https://nhannguyen000.github.io/talks/), and my [Side Projects](https://nhannguyen000.github.io/portfolio/). 
+#### How to Start
+Book an appointment with me:
+
+<p class="cta">
+  <a class="btn btn-primary btn-lg" href="contact.html#book">Book a Decision Call</a>
+  <a class="btn btn-outline-primary btn-lg" href="mailto:aa@gmail.com">Email: aa@gmail.com</a>
+</p>
+
+Choose the right format:
+
+- **Have one urgent decision?** → *Multi‑omics decision sprint*  
+- **Need deeper validation?** → *Biomarker & hypothesis validation project*  
+- **Recurring decision points?** → *Scientific translation & advisory retainer*
 
