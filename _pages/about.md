@@ -41,15 +41,14 @@ I offer three service packages designed to reduce uncertainty and accelerate dec
 | **Timeline** | **3–4 weeks** / project | **6–8 weeks** / project | **3–6 months** / project |
 | **Price range** | €12,000–€15,000 (fixed price) | €18,000–€25,000 (fixed price) | €2,500–€3,500 / month |
 
-------
-#### How to Start
-Book an appointment with me:
+
+## How to Start
 
 <p class="cta">
-  <a class="btn btn-primary btn-lg" href="https://calendly.com/nhan-nguyenthi1412/meeting">Book a Decision Call</a>
+  <a class="btn btn-primary btn-lg" href="https://calendly.com/nhan-nguyenthi1412/meeting">Book an appointment with me</a>
 </p>
 
-Choose the right format:
+Choose the right package:
 
 - **Have one urgent decision?** → *Multi‑omics decision sprint*  
 - **Need deeper validation?** → *Biomarker & hypothesis validation project*  
