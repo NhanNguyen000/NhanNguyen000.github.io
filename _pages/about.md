@@ -43,9 +43,24 @@ I offer three service packages designed to reduce uncertainty and accelerate dec
 
 
 ## How to Start
-
+<style>
+@media (prefers-color-scheme: dark) {
+  .btn.btn-primary {
+    background-color: #4ea8ff !important;  /* lighter blue pops on dark bg */
+    color: #0b1220 !important;              /* very dark text on light button */
+  }
+  .btn.btn-primary:hover,
+  .btn.btn-primary:focus {
+    background-color: #82c6ff !important;
+    color: #06101d !important;
+  }
+}
+</style>
 <p class="cta">
-  <a class="btn btn-primary btn-lg" href="https://calendly.com/nhan-nguyenthi1412/meeting">Book an appointment with me</a>
+  <a class="btn btn-primary btn-lg"
+     href="https://calendly.com/nhan-nguyenthi1412/meeting">
+    Book an appointment with me
+  </a>
 </p>
 
 Choose the right package:
