@@ -6,11 +6,9 @@ redirect_from:
   - /contact.html
 ---
 
-I am happy to hear from students, researchers, and organisations. If you'd like to get in touch for: 
+I am happy to hear from students, researchers, and organisations.  
 
----
-
-### Research & Education
+## Research & Education
 
 **Collaboration & Research Partnerships**: If you are interested in collaborating on research projects, I would love to discuss potential ideas with you.
 Please message me via: [My LinkedIn](https://www.linkedin.com/in/nhannguyen1412/)
@@ -19,9 +17,9 @@ Please message me via: [My LinkedIn](https://www.linkedin.com/in/nhannguyen1412/
 **Students (Thesis / Internship / Placement)**: I supervise motivated Bachelor's, Master’s and PhD students interested in multi‑omics, bioinformatics, and data‑driven biomedical research. 
 If you want to work with me, please message me via: [My LinkedIn](https://www.linkedin.com/in/nhannguyen1412/)
 
----
 
-### Consultant
+
+## Consultant
 
 I help biotech and translational research teams make **fast** and **confident** decisions from complex multi‑omics datasets. 
 
