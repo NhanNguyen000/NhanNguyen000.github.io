@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: ""
 redirect_from: 
  # - /contact/
   - /contact.html
@@ -8,21 +8,24 @@ redirect_from:
 
 I am happy to hear from students, researchers, and organisations. If you'd like to get in touch for: 
 
-<br>
+---
 
-🔬 **Collaboration & Research Partnerships**: If you are interested in collaborating on research projects, I would love to discuss potential ideas with you.
+### Research & Education
+
+**Collaboration & Research Partnerships**: If you are interested in collaborating on research projects, I would love to discuss potential ideas with you.
 Please message me via: [My LinkedIn](https://www.linkedin.com/in/nhannguyen1412/)
 
-<br>
 
-🎓 **Students (Thesis / Internship / Placement)**: I supervise motivated Bachelor's, Master’s and PhD students interested in multi‑omics, bioinformatics, and data‑driven biomedical research. 
+**Students (Thesis / Internship / Placement)**: I supervise motivated Bachelor's, Master’s and PhD students interested in multi‑omics, bioinformatics, and data‑driven biomedical research. 
 If you want to work with me, please message me via: [My LinkedIn](https://www.linkedin.com/in/nhannguyen1412/)
 
-<br>
+---
 
-🧠 **Scientific Consulting**: I help biotech and translational research teams make **fast** and **confident** decisions from complex multi‑omics datasets. 
+### Consultant
 
-Here are my consulting services package:
+I help biotech and translational research teams make **fast** and **confident** decisions from complex multi‑omics datasets. 
+
+Here are my services package:
 
 - **Have one urgent decision?** → *Multi‑omics decision sprint*  
 - **Need deeper validation?** → *Biomarker & hypothesis validation project*  
@@ -50,5 +53,7 @@ Here are my consulting services package:
 
 <br><br>
 
-📫 **General Contact**: For anything else, you can contact me via [My LinkedIn](https://www.linkedin.com/in/nhannguyen1412/)
+---
+
+**General Contact**: For anything else, you can contact me via [My LinkedIn](https://www.linkedin.com/in/nhannguyen1412/)
 

@@ -43,6 +43,7 @@ I offer three service packages designed to reduce uncertainty and accelerate dec
 
 
 ## How to Start
+
 <style>
 @media (prefers-color-scheme: dark) {
   .btn.btn-primary {
@@ -62,6 +63,7 @@ I offer three service packages designed to reduce uncertainty and accelerate dec
     Book an appointment with me
   </a>
 </p>
+
 
 Choose the right package:
 
