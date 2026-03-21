@@ -10,7 +10,6 @@ My research lies at the intersection of two main areas: multi-omics analysis and
 
 I am particularly interested in leveraging existing datasets to address new research questions and in transferring analytical techniques across different research domains.
 
----
 
 ## Research directions
 

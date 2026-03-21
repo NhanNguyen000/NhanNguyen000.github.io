@@ -1,7 +1,9 @@
 ---
+layout: single
 permalink: /portfolio/
 title: "Extracurricular Activities"
 toc: true
+toc_sticky: true     # ← keeps the TOC fixed in the right sidebar as you scroll
 toc_label: "On this page"
 toc_icon: "list"
 redirect_from: 
@@ -9,6 +11,7 @@ redirect_from:
   - /portfolio.html
 ---
 {% include toc %}
+
 
 Alongside my research and professional work, I also actively join extracurricular initiatives to continuously learn beyond my core research, broaden my perspective, and contribute back to the community 
 
